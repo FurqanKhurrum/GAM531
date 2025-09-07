@@ -12,7 +12,7 @@ A simple OpenGL application written in C# using OpenTK that renders a colorful 2
 
 ## Prerequisites
 
-- Visual Studio 2019 or later
+- Visual Studio 2022
 - .NET 6.0 SDK or later
 - Windows, macOS, or Linux
 
@@ -22,7 +22,7 @@ A simple OpenGL application written in C# using OpenTK that renders a colorful 2
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[your-username]/OpenGLRectangle.git
+   git clone https://github.com/FurqanKhurrum/OpenGLRectangle.git
    ```
 
 2. Open the solution in Visual Studio
@@ -35,7 +35,7 @@ A simple OpenGL application written in C# using OpenTK that renders a colorful 2
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[your-username]/OpenGLRectangle.git
+   git clone https://github.com/FurqanKhurrum/OpenGLRectangle.git
    ```
 
 2. Navigate to the project directory:
@@ -87,23 +87,13 @@ OpenGLRectangle/
 ## Technologies Used
 
 - **C#** - Programming language
-- **OpenTK 3.3.3** - .NET wrapper for OpenGL
+- **OpenTK 4.9.4** - .NET wrapper for OpenGL (SharpDX is no longer under active development or maintenance)
 - **OpenGL 3.3** - Graphics API
 - **.NET 6.0** - Framework
 
-## Learning Resources
-
-- [OpenTK Documentation](https://opentk.net/)
-- [Learn OpenGL](https://learnopengl.com/)
-- [OpenGL Reference](https://www.khronos.org/opengl/)
-
-## License
-
-This project is open source and available for educational purposes.
-
 ## Author
 
-[Your Name]
+Furqan Khurrum
 
 ## Acknowledgments
 
