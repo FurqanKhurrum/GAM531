@@ -1,6 +1,8 @@
 ﻿# OpenGL Rectangle Renderer
 
 A simple OpenGL application written in C# using OpenTK that renders a colorful 2D rectangle.
+<img width="1142" height="791" alt="image" src="https://github.com/user-attachments/assets/2d0ea3a4-1197-421c-ae53-53ef1a9fc19d" />
+
 
 ## Features
 
